@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "colors-app-with-firebase",
+    "description": "No description",
+    "slug": "snack-a3546a5f-c235-4f96-b67f-3e83abc5185f",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "loading": {
+      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
